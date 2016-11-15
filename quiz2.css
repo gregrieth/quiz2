@@ -1,5 +1,5 @@
 html body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, sans-serif;
   font-size: 12px;
 }
 
@@ -9,13 +9,13 @@ heade {
 
 h1 {
   font-weight: boldest;
-  text-deckoration: underlines;
-  boarder: 2px solid darkorange;
+  text-decoration: underlines;
+  border: 2px solid dark-orange;
   padding: 10px 20px;
 }
 
 .dynamic {
-  disply: none;
+  display: none;
 }
 
 section {
@@ -23,6 +23,6 @@ section {
 }
 
 fieldset {
-  margin-bottom: 10px
-  padding: 10px
+  margin-bottom: 10px;
+  padding: 10px;
 }
